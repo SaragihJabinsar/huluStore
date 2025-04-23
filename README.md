@@ -15,7 +15,7 @@ Proyek ini bertujuan mendigitalisasi sistem grosir tradisional serta mempercepat
 
 ## 📷 Tampilan Aplikasi
 
-![Tampilan Dashboard](./Example/dashboard.png)
+![Tampilan Dashboard](Example/dashboard.png)
 
 ---
 
